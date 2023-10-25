@@ -18,9 +18,9 @@ Launch the reduceUnrolling16 kernel, which performs reduction using 16 data bloc
 Compare the results obtained from both kernels.
 
 ### Program :
-Developed By : **Akash A**
+Developed By : **Mohan raj S**
 </br>
-Register No. : **212221230003**
+Register No. : **212221230065**
 ```c
 %%cu
 #include <cuda_runtime.h>
